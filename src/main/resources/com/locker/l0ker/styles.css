@@ -1,0 +1,28 @@
+.dashboard{
+    /*-fx-background-color: ;*/
+    /*-fx-background-image: url('lockerbg.png');
+        -fx-background-repeat: repeat;
+        -fx-background-size: cover;*/
+
+    -fx-background-color:#1d2129;
+}
+
+.topmenubar{
+    -fx-background-color:#1d2129;
+    -fx-text-fill: white;
+}
+.menu-bar .menu .label {
+    -fx-text-fill: #e84f7d; /* Change the menu text color to red */
+        -fx-font-weight: bold; /* Make the menu text bold */
+
+}
+
+
+.menu-item .label {
+    -fx-text-fill: black; /* Change the menu text color to red */
+}
+
+#profile{
+    -fx-text-fill: white;
+
+}
